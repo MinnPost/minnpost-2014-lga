@@ -1,0 +1,115 @@
+P1
+TOTAL POPULATION
+
+Universe: Total population
+
+Note: This is a modified view of the original table.
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see  http://www.census.gov/prod/cen2010/doc/sf1.pdf.
+
+(r23794)	This count has been revised.   
+Revised count: 1,065 Revision date: 01-04-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r23795)	This count has been revised.   
+Revised count: 18,377 Revision date: 01-04-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r23796)	This count has been revised.   
+Revised count: 4,094 Revision date: 01-04-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r23797)	This count has been revised.   
+Revised count: 5,320 Revision date: 10-10-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r23798)	This count has been revised.   
+Revised count: 8,061 Revision date: 01-04-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r23799)	This count has been revised.   
+Revised count: 1,053 Revision date: 01-04-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r23800)	This count has been revised.   
+Revised count: 663 Revision date: 01-04-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r23801)	This count has been revised.   
+Revised count: 27,401 Revision date: 01-04-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r23802)	This count has been revised.   
+Revised count: 4,445 Revision date: 01-04-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r23803)	This count has been revised.   
+Revised count: 366 Revision date: 01-04-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r23804)	This count has been revised.   
+Revised count: 5,273 Revision date: 01-04-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r23805)	This count has been revised.   
+Revised count: 3,934 Revision date: 01-04-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r23806)	This count has been revised.   
+Revised count: 18,227 Revision date: 01-04-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+Source: U.S. Census Bureau, 2010 Census.
+
